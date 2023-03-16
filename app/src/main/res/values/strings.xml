@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VoyagerToBLP2D_TEST</string>
+
+
+    <string name="msg_connecting">接続中...</string>
+    <string name="msg_bt_not_available">このデバイスではBluetoothが利用できません</string>
+    <string name="msg_scanner_connected">スキャナーと接続しました</string>
+    <string name="msg_scanner_disconnected">スキャナーを接続解除しました</string>
+    <string name="msg_scanner_connection_failed">スキャナーとの接続に失敗しました</string>
+
+
+
+</resources>
